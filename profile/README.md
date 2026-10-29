@@ -1,3 +1,8 @@
-## Useful ideas, made real.
+**pomentum** `/poʊˈmɛn.təm/` *noun*\
+the momentum of what's possible.
 
-We turn ideas into working open-source software that anyone can use, inspect and build on.
+## From possible to in motion.
+
+Pomentum is an open-source lab. We explore ideas and turn them into real solutions.
+
+[www.pomentum.dev](https://www.pomentum.dev/)
