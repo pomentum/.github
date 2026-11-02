@@ -3,4 +3,4 @@ the momentum of what's possible.
 
 ## From possible to in motion.
 
-Pomentum is an open-source lab. We explore ideas and turn them into real solutions.
+Pomentum is an open-source hub. We explore ideas and turn them into real solutions.
